@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stock Classification using Machine Learning](/stock_classifier.html)
+<img src="images/stock_thumbnail.png?raw=true"/>
 
 ---
 [Blown Away: The Rise and Fall of Businesses in the Windy City by Codeconomics](/blown_away)
