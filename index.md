@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Cross-border funding](https://github.com/JGro95/project_dynamic)
+[Cross-border funding](https://jgro95.github.io/project_dynamic/)
 <img src="images/dynamic_lbs_thumbnail.png?raw=true"/>
 
 ---
